@@ -1,0 +1,46 @@
+@media screen and (max-width: 1024px)
+{
+	/* HEADER */
+	header img {
+		width: 35%;
+		margin-right: 10%;
+	}
+	
+
+	/* SLIDER */
+	.slider {
+		width: 100%;
+		max-height: 600px;
+	}
+	.slideFigure img {
+		height: auto;
+	}
+	.slideText {
+		width: 30%;
+		font-size: 75%;
+	}
+
+
+	/* NOS SERVICES */
+	#listServices {
+		display: inline-block;
+	}
+	#imac {
+		margin-left: 0;
+		text-align: center;
+	}
+	.containerD {
+		margin-top: 40px;
+		width: 95%;
+	}
+
+
+	/* NOS PROJETS */
+	
+
+
+	/* CONTACT */
+	form input:last-child {
+		font-size: 100%;
+	}
+}
